@@ -47,10 +47,10 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 ## 📂 Project Structure
 
 ```
-├── index.html          # Main HTML file
+├── index.html         # Main HTML file
 ├── styles.css         # CSS styles
-├── script.js         # JavaScript functionality
-└── README.md         # Project documentation
+├── script.js          # JavaScript functionality
+└── README.md          # Project documentation
 ```
 
 ## 🎨 Customization
